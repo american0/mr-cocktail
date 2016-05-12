@@ -50,3 +50,4 @@ end
 ruby '2.3.1'
 gem 'rails_12factor', group: :production
 gem 'puma',           group: :production
+gem 'rspec-rails', group: [ :test ]
